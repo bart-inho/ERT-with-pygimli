@@ -1,0 +1,7 @@
+2.5 m WS
+P01 : 72 el 
+P02 : 72 el 
+P03 : 72 el
+P04 : 96 el
+P05 : 96 el 
+Bon weekend !
